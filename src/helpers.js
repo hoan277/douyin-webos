@@ -1,4 +1,4 @@
-const APP_URL = 'https://tiktok.com/';
+const APP_URL = 'https://douyin.com/';
 
 export const startApp = () => {
   window.location.href = APP_URL;
